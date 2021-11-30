@@ -1,0 +1,61 @@
+	
+	
+	
+		table
+	{
+  color: #7b2c55;
+  
+	}
+  
+  
+		@font-face {
+		
+		font-family: cairoA;
+		
+	src: url(../fonts/Cairo-Regular.ttf);
+	}
+	
+	a {
+		
+		color : yellow;
+
+		text-decoration : none;
+
+
+	}
+	
+	
+	a:hover
+	
+	{
+		color : blue;
+	text-decoration : underline;
+	background-color : aqua;
+	
+	}
+	
+	a:active
+	
+	color : red;
+	
+	}
+	
+	/*
+	a:visited
+	
+	{
+		
+			color : green;
+			
+	}
+	/*
+	
+	ul {
+  list-style-image: url('image/sqpurple.gif');
+}
+
+	
+	
+	
+		
+  
